@@ -1,7 +1,0 @@
-[14:20:31.775] T：66 AA 00 F1 00 03 00 00 00 00
-[14:20:31.802] R：————————————————————
-[I] TUYA_APP: uart simulate lock data [len=2] :
-D/HEX : 0000-0008: 00 00                      ..
-
-[I] TUYA_APP: g_auto_switch.creat_pw_flag: 0
-
