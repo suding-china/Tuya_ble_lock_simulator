@@ -1,0 +1,715 @@
+[21:59:53.105] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FF C9 15 4D 23 DC          ...M#.
+
+
+[21:59:53.408] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, siz
+[21:59:53.435] R：————————————————————
+e: 8192
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 32 70 4E 55
+[21:59:53.463] R：————————————————————
+ 73 43 41 54    2pNUsCAT
+D/HEX : 0008-0010: 47 71 4C 6D 58 48 61 49    GqLmXHaI
+D/HEX : 0010-0018: 6C 4E 39 6E 66 35 34 53    lN9nf54S
+D/HEX : 0018-0020: 61 56 70 43 52 63 6D 59    aVpCRcmY
+
+[I] TUYA_APP: device id [len=16] :
+D/HEX : 0000-0008: 35 33 64 63 66 61 37 35    53dcfa75
+D/HEX : 0008-0010: 65 61 63 38 61 32 35
+[21:59:53.499] R：————————————————————
+ 37    eac8a257
+
+[I] TUYA_APP: start advertising
+
+[21:59:56.180] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FF C9 15 4D 23 DC          ...M#.
+
+
+[21:59:56.500] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, size: 8192
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+
+[21:59:56.532] R：————————————————————
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 32 70 4E 55 73 43 41 54    2pNUsCAT
+D/HEX : 0008-0010: 47 71 4C 6D 58 48 61 49    GqLmXHaI
+D/HEX : 0010-0018: 6C 4E 39 6E 66 35 34 53    lN9nf54S
+D/HEX : 0018-0020: 61 56 70 43 52 63 6D 59    aVpCRcmY
+
+[I] TUYA_APP: device id [len=16] 
+[21:59:56.564] R：————————————————————
+:
+D/HEX : 0000-0008: 35 33 64 63 66 61 37 35    53dcfa75
+D/HEX : 0008-0010: 65 61 63 38 61 32 35 37    eac8a257
+
+[I] TUYA_APP: start advertising
+
+[22:00:26.329] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[22:00:26.622] R：————————————————————
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[22:00:27.016] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-7ms, max-7ms, latency-0, timeout-5000ms
+
+[22:00:27.135] R：————————————————————
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[22:00:27.209] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-48ms, max-48ms, latency-0, timeout-5000ms
+
+[22:00:28.310] R：————————————————————
+[I] TUYA_APP: bonding and connecting
+
+[22:00:28.681] R：————————————————————
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - time_zone: 800
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - timestamp: 1599487229
+
+[22:00:29.687] R：————————————————————
+[I] TUYA_APP: suble_battery_sample_start
+
+[22:00:29.806] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-200ms, max-200ms, latency-0, timeout-5000ms
+[I] TUYA_APP: gapc update params ok !
+
+[22:00:31.579] R：————————————————————
+[I] TUYA_APP: battery_percent: 176
+[I] TUYA_APP: battery_percent_report: 100
+[I] TUYA_APP: dp_rsp [len=7] :
+D/HEX : 0000-0008: 28 02 04 00 00 00 64       (.....d
+
+
+[22:00:33.500] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: suble_gap_disconnect_for_tuya_ble_sdk
+
+[22:00:33.568] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: suble_gap_disconnect_for_tuya_ble_sdk
+
+[22:00:34.018] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x16
+[I] TUYA_APP: start advertising
+
+[22:00:34.487] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: ke_state_get(TASK_APP) = 3
+
+[22:00:35.483] R：————————————————————
+[I] TUYA_APP: device reset
+[I] TUYA_APP: error = 0
+
+[22:00:35.679] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FF C9 15 4D 23 DC          ...M#.
+
+
+[22:00:35.978] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simplefl
+[22:00:36.006] R：————————————————————
+ash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+
+[22:00:36.049] R：————————————————————
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 32 70 4E 55 73 43 41 54    2pNUsCAT
+D/HEX : 0008-0010: 47 71 4C 6D 58 48 61 49    GqLmXHaI
+D/HEX : 0010-0018: 6C 4E 39 6E 66 35 34 53    lN9nf54S
+D/HEX : 0018-0020: 61 56 70 43 52 63 6D 59    aVpCRcmY
+
+[I] TUYA_APP: device id [len=16] 
+[22:00:36.076] R：————————————————————
+:
+D/HEX : 0000-0008: 35 33 64 63 66 61 37 35    53dcfa75
+D/HEX : 0008-0010: 65 61 63 38 61 32 35 37    eac8a257
+
+
+[22:00:40.275] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FF C9 15 4D 23 DC          ...M#.
+
+
+[22:00:40.552] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash 
+[22:00:40.580] R：————————————————————
+area[3] start addr: 0x6e000, size: 8192
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+
+[22:00:40.611] R：————————————————————
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 32 70 4E 55 73 43 41 54    2pNUsCAT
+D/HEX : 0008-0010: 47 71 4C 6D 58 48 61 49    GqLmXHaI
+D/HEX : 0010-0018: 6C 4E 39 6E 66 35 34 53    lN9nf54S
+D/HEX : 0018-0020: 61 56 70 43 52 63 6D 59    aVpCRcmY
+
+[
+[22:00:40.642] R：————————————————————
+I] TUYA_APP: device id [len=16] :
+D/HEX : 0000-0008: 35 33 64 63 66 61 37 35    53dcfa75
+D/HEX : 0008-0010: 65 61 63 38 61 32 35 37    eac8a257
+
+
+[22:00:48.659] R：————————————————————
+[I] TUYA_APP: hit 1
+[I] TUYA_APP: appm_start_scanning
+
+[22:00:49.304] R：————————————————————
+[I] TUYA_APP: hit 1
+[I] TUYA_APP: __________________s_master_scan_is_running
+
+[22:00:53.735] R：————————————————————
+[I] TUYA_APP: KEY_STATE_PRESSED_2
+[I] TUYA_APP: appm_stop_scanning
+[I] TUYA_APP: music_idx: 9
+[I] TUYA_APP: scan stoped
+[I] TUYA_APP: start advertising
+[I] TUYA_APP: appm stop advertising
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: APPM_WAIT_ADVERTISTING_END
+[I] TUYA_APP: appm_start_scanning
+[I] TUYA_APP: scanning restart
+
+[22:00:54.184] R：————————————————————
+[I] TUYA_APP: suble_buzzer_stop
+
+[22:00:58.678] R：————————————————————
+[I] TUYA_APP: appm_stop_scanning
+[I] TUYA_APP: TUYA_BLE_MASTER_EVT_SCAN_TIMEOUT
+[I] TUYA_APP: scan stoped
+[I] TUYA_APP: start advertising
+
+[22:01:37.663] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[22:01:37.920] R：————————————————————
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[22:01:38.312] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-7ms, max-7ms, latency-0, timeout-5000ms
+
+[22:01:38.433] R：————————————————————
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[22:01:38.530] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-48ms, max-48ms, latency-0, timeout-5000ms
+
+[22:01:40.610] R：————————————————————
+[I] TUYA_APP: bonding and connecting
+
+[22:01:41.026] R：————————————————————
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - time_zone: 800
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - timestamp: 1599487301
+
+[22:01:42.033] R：————————————————————
+[I] TUYA_APP: suble_battery_sample_start
+
+[22:01:42.148] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-200ms, max-200ms, latency-0, timeout-5000ms
+[I] TUYA_APP: gapc update params ok !
+
+[22:01:43.918] R：————————————————————
+[I] TUYA_APP: battery_percent: 176
+[I] TUYA_APP: battery_percent_report: 100
+[I] TUYA_APP: dp_rsp [len=7] :
+D/HEX : 0000-0008: 28 02 04 00 00 00 64       (.....d
+
+
+[22:01:44.165] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 34    F..15994
+D/HEX : 0008-0010: 38 37 33 30 30             87300
+
+[I] TUYA_APP: set T0->[1599487300]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 34    F..15994
+D/HEX 
+[22:01:44.204] R：————————————————————
+: 0008-0010: 38 37 33 30 30             87300
+
+
+[22:01:59.961] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 34    F..15994
+D/HEX : 0008-0010: 38 37 33 30 30             87300
+
+[I] TUYA_APP: set T0, but same->[1599487300]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 34    F..15994
+D/HEX : 0008-0010: 38 37 33 30 30             87300
+
+
+[22:02:04.965] R：————————————————————
+[I] TUYA_APP: data passthrough [len=45] :
+D/HEX : 0000-0008: 00 00 51 36 30 33 35 38    ..Q60358
+D/HEX : 0008-0010: 39 36 33 00 50 30 62 61    963.P0ba
+D/HEX : 0010-0018: 64 63 62 62 61 65 61 32    dcbbaea2
+D/HEX : 0018-0020: 62 36 62 63 35 6B 8F 15    b6bc5k..
+D/HEX : 0020-0028: FF B9 B8 CA 39 BC 24 2E    ....9.$.
+D/HEX : 0028-0030: E5 21 B8 7C 77             .!.|w
+
+
+[22:02:04.998] R：————————————————————
+[I] TUYA_APP: rsp [len=14] :
+D/HEX : 0000-0008: 00 00 51 36 30 33 35 38    ..Q60358
+D/HEX : 0008-0010: 39 36 33 00 50 00          963.P.
+
+
+[22:02:18.958] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x13
+[I] TUYA_APP: start advertising
+
+[20:35:11.247] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FD C9 15 4D 23 DC          ...M#.
+
+
+[20:35:11.539] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, siz
+[20:35:11.569] R：————————————————————
+e: 8192
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 47 56 41 45 52 4E 37 68    GVAERN7h
+D/HEX : 0008-0010: 49 30 69 38 55 7A 72 75    I0i8Uzru
+D/HEX : 0010-0018: 41 37 4B 41 75 59 6E 4F    A7
+[20:35:11.603] R：————————————————————
+KAuYnO
+D/HEX : 0018-0020: 42 50 76 53 37 77 76 78    BPvS7wvx
+
+[I] TUYA_APP: device id [len=16] :
+D/HEX : 0000-0008: 61 39 62 62 62 64 38 63    a9bbbd8c
+D/HEX : 0008-0010: 35 65 33 62 66 63 36 39    5e3bfc69
+
+[I] TUYA_APP: start advertising
+
+[20:35:18.809] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[20:35:19.055] R：————————————————————
+[I] TUYA_APP: le_pkt_size: conidx-0, rx_octets-247, rx_time-2120, tx_octets-27, tx_time-2120
+
+[20:35:19.234] R：————————————————————
+[I] TUYA_APP: mtu_changed: conidx-0, mtu-27, seq-0
+
+[20:35:20.497] R：————————————————————
+[I] TUYA_APP: bonding and connecting
+
+[20:35:20.839] R：————————————————————
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - time_zone: 800
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - timestamp: 1599741320
+
+[20:35:21.613] R：————————————————————
+[I] TUYA_APP: gapc update params ok !
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[20:35:21.839] R：————————————————————
+[I] TUYA_APP: suble_battery_sample_start
+
+[20:35:22.065] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-200ms, max-200ms, latency-0, timeout-5000ms
+
+[20:35:23.740] R：————————————————————
+[I] TUYA_APP: battery_percent: 174
+[I] TUYA_APP: battery_percent_report: 100
+[I] TUYA_APP: dp_rsp [len=7] :
+D/HEX : 0000-0008: 28 02 04 00 00 00 64       (.....d
+
+
+[20:35:30.417] T：66 AA 00 F1 00 04 0C 32 00 01 00
+[20:35:30.444] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 32 00 01                   2..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 32 00 06 00 00 00 00 00    2.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:33.673] T：66 AA 00 F1 00 04 0C 33 01 01 00
+[20:35:33.699] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 33 01 01                   3..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 33 00 06 00 00 00 01 00    3.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:36.035] T：66 AA 00 F1 00 04 0C 34 01 01 00
+[20:35:36.061] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 34 01 01                   4..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 34 00 06 00 00 00 01 00    4.......
+D/HEX : 0008-0010: 01              
+[20:35:36.089] R：————————————————————
+           .
+
+
+[20:35:38.857] T：66 AA 00 F1 00 04 0C 35 01 01 00
+[20:35:38.885] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 35 01 01                   5..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 35 00 06 00 00 00 01 00    5.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:42.201] T：66 AA 00 F1 00 04 0C 36 01 01 00
+[20:35:42.229] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 36 01 01                   6..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 36 00 06 00 00 00 01 00    6.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:45.144] T：66 AA 00 F1 00 04 0C 37 01 01 00
+[20:35:45.171] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 37 01 01                   7..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 37 00 06 00 00 00 01 00    7.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:48.081] T：66 AA 00 F1 00 04 0C 38 01 01 00
+[20:35:48.107] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 38 01 01                   8..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 38 00 06 00 00 00 01 00    8.......
+D/HEX : 0008-0010: 01             
+[20:35:48.135] R：————————————————————
+            .
+
+
+[20:35:50.614] T：66 AA 00 F1 00 04 0C 39 01 01 00
+[20:35:50.641] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 39 01 01                   9..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 39 00 06 00 00 00 01 00    9.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:53.234] T：66 AA 00 F1 00 04 0C 3A 01 01 00
+[20:35:53.262] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 3A 01 01                   :..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=9] :
+D/HEX : 0000-0008: 3A 00 06 00 00 00 01 00    :.......
+D/HEX : 0008-0010: 01                         .
+
+
+[20:35:56.167] T：66 AA 00 F1 00 04 0C 4A FF 01 00
+[20:35:56.190] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 4A FF 01                   J..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=7] :
+D/HEX : 0000-0008: 4A 02 04 00 00 00 00       J......
+
+
+[20:35:58.985] T：66 AA 00 F1 00 04 0C 3B 00 01 00
+[20:35:59.011] R：————————————————————
+[I] TUYA_APP: uart simulate lock data [len=3] :
+D/HEX : 0000-0008: 3B 00 01                   ;..
+
+[I] TUYA_APP: timestamp: 0
+[I] TUYA_APP: dp_rsp_timestamp [len=6] :
+D/HEX : 0000-0008: 3B 00 03 00 00 01          ;.....
+
+
+[20:37:01.682] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+[I] TUYA_APP: set T0, but same->[1599740461]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+
+[20:39:01.272] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+[I] TUYA_APP: set T0, but same->[1599740461]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+
+[20:41:02.272] R：————————————————————
+[I] TUYA_APP: ble disconncet because communication monitor timer timeout.
+[I] TUYA_APP: func appm_disconnect
+
+[20:41:03.278] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x16
+[I] TUYA_APP: start advertising
+
+[20:42:12.003] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[20:42:12.296] R：————————————————————
+[I] TUYA_APP: le_pkt_size: conidx-0, rx_octets-247, rx_time-2120, tx_octets-27, tx_time-2120
+
+[20:42:12.414] R：————————————————————
+[I] TUYA_APP: mtu_changed: conidx-0, mtu-27, seq-0
+
+[20:42:13.608] R：————————————————————
+[I] TUYA_APP: bonding and connecting
+
+[20:42:13.861] R：————————————————————
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - time_zone: 800
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - timestamp: 1599741733
+
+[20:42:14.729] R：————————————————————
+[I] TUYA_APP: gapc update params ok !
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[20:42:14.867] R：————————————————————
+[I] TUYA_APP: suble_battery_sample_start
+
+[20:42:15.266] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-200ms, max-200ms, latency-0, timeout-5000ms
+
+[20:42:16.773] R：————————————————————
+[I] TUYA_APP: battery_percent: 174
+[I] TUYA_APP: battery_percent_report: 100
+[I] TUYA_APP: dp_rsp [len=7] :
+D/HEX : 0000-0008: 28 02 04 00 00 00 64       (.....d
+
+
+[20:44:18.062] R：————————————————————
+[I] TUYA_APP: ble disconncet because communication monitor timer timeout.
+[I] TUYA_APP: func appm_disconnect
+
+[20:44:18.672] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x16
+[I] TUYA_APP: start advertising
+
+[20:45:23.292] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[20:45:23.553] R：————————————————————
+[I] TUYA_APP: le_pkt_size: conidx-0, rx_octets-247, rx_time-2120, tx_octets-27, tx_time-2120
+
+[20:45:23.643] R：————————————————————
+[I] TUYA_APP: mtu_changed: conidx-0, mtu-27, seq-0
+
+[20:45:24.558] R：————————————————————
+[I] TUYA_APP: bonding and connecting
+
+[20:45:24.756] R：————————————————————
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - time_zone: 800
+[I] TUYA_APP: TUYA_BLE_CB_EVT_TIME_STAMP - timestamp: 1599741924
+
+[20:45:25.627] R：————————————————————
+[I] TUYA_APP: gapc update params ok !
+[I] TUYA_APP: gapc_param_update_req_ind_handler
+
+[20:45:25.769] R：————————————————————
+[I] TUYA_APP: suble_battery_sample_start
+
+[20:45:26.058] R：————————————————————
+[I] TUYA_APP: conn_param_update: conidx-0, min-200ms, max-200ms, latency-0, timeout-5000ms
+
+[20:45:27.651] R：————————————————————
+[I] TUYA_APP: battery_percent: 174
+[I] TUYA_APP: battery_percent_report: 100
+[I] TUYA_APP: dp_rsp [len=7] :
+D/HEX : 0000-0008: 28 02 04 00 00 00 64       (.....d
+
+
+[20:46:10.667] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+[I] TUYA_APP: set T0, but same->[1599740461]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+
+[20:47:19.068] R：————————————————————
+[I] TUYA_APP: dp_cmd [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+[I] TUYA_APP: set T0, but same->[1599740461]
+[I] TUYA_APP: dp_rsp [len=13] :
+D/HEX : 0000-0008: 46 03 0A 31 35 39 39 37    F..15997
+D/HEX : 0008-0010: 34 30 34 36 31             40461
+
+
+[20:49:19.864] R：————————————————————
+[I] TUYA_APP: ble disconncet because communication monitor timer timeout.
+[I] TUYA_APP: func appm_disconnect
+
+[20:49:20.281] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x16
+[I] TUYA_APP: start advertising
+
+[20:52:27.979] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Connected
+[I] TUYA_APP: adv stoped
+[I] TUYA_APP: adv && scan off
+
+[20:52:28.261] R：————————————————————
+[I] TUYA_APP: le_pkt_size: conidx-0, rx_octets-247, rx_time-2120, tx_octets-27, tx_time-2120
+
+[20:52:28.325] R：————————————————————
+[I] TUYA_APP: mtu_changed: conidx-0, mtu-27, seq-0
+
+[20:52:29.509] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: suble_gap_disconnect_for_tuya_ble_sdk
+
+[20:52:29.598] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: suble_gap_disconnect_for_tuya_ble_sdk
+
+[20:52:29.744] R：————————————————————
+[I] TUYA_APP: ROLE_SLAVE Disconnected: 0x16
+[I] TUYA_APP: start advertising
+
+[20:52:30.506] R：————————————————————
+[I] TUYA_APP: func appm_disconnect
+[I] TUYA_APP: ke_state_get(TASK_APP) = 3
+
+[20:52:31.509] R：————————————————————
+[I] TUYA_APP: device reset
+[I] TUYA_APP: error = 0
+
+[20:52:31.712] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FD C9 15 4D 23 DC          ...M#.
+
+
+[20:52:31.993] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash
+[20:52:32.030] R：————————————————————
+ is empty
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+[I] TUYA_APP: simpleflash is empty
+
+[20:52:32.071] R：————————————————————
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 47 56 41 45 52 4E 37 68    GVAERN7h
+D/HEX : 0008-0010: 49 30 69 38 55 7A 72 75    I0i8Uzru
+D/HEX : 0010-0018: 41 37 4B 41 75 59 6E 4F    A7KAuYnO
+D/HEX : 0018-0020: 42 50 76 53 37 77 76 78    BPvS7wvx
+
+[
+[20:52:32.097] R：————————————————————
+I] TUYA_APP: device id [len=16] :
+D/HEX : 0000-0008: 61 39 62 62 62 64 38 63    a9bbbd8c
+D/HEX : 0008-0010: 35 65 33 62 66 63 36 39    5e3bfc69
+
+
+[20:53:31.933] R：————————————————————
+EasyLogger V2.1.0 is initialize success.
+[I] TUYA_APP: bt_mac [len=6] :
+D/HEX : 0000-0008: FD C9 15 4D 23 DC          ...M#.
+
+
+[20:53:32.246] R：————————————————————
+[I] TUYA_APP: normal mode start
+[I] TUYA_APP: simpleflash area[0] start addr: 0x68000, size: 8192
+[I] TUYA_APP: simpleflash area[1] start addr: 0x6a000, size: 8192
+[I] TUYA_APP: simpleflash area[2] start addr: 0x6c000, size:
+[20:53:32.276] R：————————————————————
+ 8192
+[I] TUYA_APP: simpleflash area[3] start addr: 0x6e000, size: 8192
+[I] TUYA_APP: simpleflash area[4] start addr: 0x70000, size: 8192
+
+[20:53:32.302] R：————————————————————
+[I] TUYA_APP: auth key [len=32] :
+D/HEX : 0000-0008: 47 56 41 45 52 4E 37 68    GVAERN7h
+D/HEX : 0008-0010: 49 30 69 38 55 7A 72 75    I0i8Uzru
+D/HEX : 0010-0018: 41 37 4B 41 75 59 6E 4F    A7KAuYnO
+D/HEX : 0018-0020: 42 50 76 53 37 77 76 78    BPvS7wvx
+
+[I] TUYA_APP: device id [len=16] 
+[20:53:32.329] R：————————————————————
+:
+D/HEX : 0000-0008: 61 39 62 62 62 64 38 63    a9bbbd8c
+D/HEX : 0008-0010: 35 65 33 62 66 63 36 39    5e3bfc69
+
+
